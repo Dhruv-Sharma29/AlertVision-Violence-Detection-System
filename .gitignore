@@ -1,0 +1,46 @@
+# ==============================================================================
+# AlertVision - .gitignore
+# ==============================================================================
+
+# --- Conda / Virtual Environment ---
+alertvision/
+venv/
+.env/
+env/
+
+# --- Dataset & Training Artifacts ---
+dataset/
+extracted_features/
+processed_frames/
+your_videos/
+your_videos_results.txt
+
+# --- Model Weights (download separately - see README) ---
+models/
+
+# --- Secrets & Credentials ---
+.streamlit/secrets.toml
+
+# --- Local Database ---
+analytics.db
+
+# --- macOS ---
+.DS_Store
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# --- IDE ---
+.vscode/
+.idea/
+
+# --- Temporary Files ---
+*.tmp
+*.bak
+*.swp
