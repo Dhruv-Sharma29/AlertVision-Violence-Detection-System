@@ -159,8 +159,8 @@ AlertVision/
 
 <div align="center">
 
-|<a href="https://github.com/Dhruv-Sharma29"><img src="https://github.com/Dhruv-Sharma29.png" width="100px;" alt=""/><br /><sub><b>Dhruv Sharma</b></sub></a><br />|<a href="https://github.com/Shivanshu890"><img src="https://github.com/Shivanshu890.png" width="100px;" alt=""/><br /><sub><b>Shivanshu Bhandari</b></sub></a><br />|<a href="https://github.com/kartikeykashyap2006"><img src="https://github.com/kartikeykashyap2006.png" width="100px;" alt=""/><br /><sub><b>Kartikey Kashyap</b></sub></a><br />|
-|:-:|:-:|:-:|
+| <a href="https://github.com/Dhruv-Sharma29"><img src="https://github.com/Dhruv-Sharma29.png" width="100px;" alt=""/><br /><sub><b>Dhruv Sharma</b></sub></a><br /> | <a href="https://github.com/Shivanshu890"><img src="https://github.com/Shivanshu890.png" width="100px;" alt=""/><br /><sub><b>Shivanshu Bhandari</b></sub></a><br /> | <a href="https://github.com/kartikeykashyap2006"><img src="https://github.com/kartikeykashyap2006.png" width="100px;" alt=""/><br /><sub><b>Kartikey Kashyap</b></sub></a><br /> | <a href="https://github.com/aadiitya26"><img src="https://github.com/aadiitya26.png" width="100px;" alt=""/><br /><sub><b>Aditya Yadav</b></sub></a><br /> |
+| :-: | :-: | :-: | :-: |
 
 </div>
 
