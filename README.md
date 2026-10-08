@@ -59,6 +59,14 @@ The model was trained on the [RWF-2000 Dataset](https://github.com/mchengny/RWF2
 
 ---
 
+## Evaluation status
+
+No verified accuracy, precision, recall or F1 values are available in this checkout. The notebook has no saved evaluation output, and the trained weights and held-out features are absent. The live demo is not evidence of an accuracy score.
+
+After running the complete training/evaluation notebook from the repository root with the dataset and weights available, it writes `evaluation/latest.json` containing held-out sample count, accuracy, precision, recall, F1, confusion matrix, threshold, split seed and checkpoint SHA-256. Publish that file and report its measurements here only after checking which dataset split and model produced them. The notebook currently uses stratified 70%/15%/15% train/validation/test splits; video-source grouping and any official RWF-2000 split need to be checked before comparing with published benchmarks.
+
+The export utility can be tested without TensorFlow using `python -m unittest discover -s tests`.
+
 ## Getting Started
 
 ### Prerequisites
